@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bigbull/static/css/main.4ca9dbfa.chunk.css",
+    "main.js": "/bigbull/static/js/main.0c7173e8.chunk.js",
+    "main.js.map": "/bigbull/static/js/main.0c7173e8.chunk.js.map",
+    "runtime-main.js": "/bigbull/static/js/runtime-main.d3fc5670.js",
+    "runtime-main.js.map": "/bigbull/static/js/runtime-main.d3fc5670.js.map",
+    "static/js/2.828919bf.chunk.js": "/bigbull/static/js/2.828919bf.chunk.js",
+    "static/js/2.828919bf.chunk.js.map": "/bigbull/static/js/2.828919bf.chunk.js.map",
+    "index.html": "/bigbull/index.html",
+    "precache-manifest.0e2e9cab7c36a7d86c0282606c9934ec.js": "/bigbull/precache-manifest.0e2e9cab7c36a7d86c0282606c9934ec.js",
+    "service-worker.js": "/bigbull/service-worker.js",
+    "static/css/main.4ca9dbfa.chunk.css.map": "/bigbull/static/css/main.4ca9dbfa.chunk.css.map",
+    "static/js/2.828919bf.chunk.js.LICENSE.txt": "/bigbull/static/js/2.828919bf.chunk.js.LICENSE.txt",
+    "static/media/bigbull.png": "/bigbull/static/media/bigbull.7ee9c3d7.png",
+    "static/media/land.svg": "/bigbull/static/media/land.159219b6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fc5670.js",
+    "static/js/2.828919bf.chunk.js",
+    "static/css/main.4ca9dbfa.chunk.css",
+    "static/js/main.0c7173e8.chunk.js"
+  ]
+}
